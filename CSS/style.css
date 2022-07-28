@@ -1,0 +1,30 @@
+*{
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 3em;
+}
+
+.subtitulo{
+    text-align: center;
+}
+
+.texto{
+    text-align: justify;
+}
+
+.link{
+   margin-left: 19%;
+   padding-right: 4px;
+}
+
+.lista{
+    list-style: none;
+    display: inline;
+}
+.lista0{
+    list-style: none;
+}
